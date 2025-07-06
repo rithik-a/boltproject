@@ -28,7 +28,7 @@ const DoctorDashboard: React.FC<DoctorDashboardProps> = ({ doctor }) => {
   const mockPatients = [
     {
       id: '1',
-      name: 'Sarah Johnson',
+      name: 'emma watson',
       age: 28,
       week: 24,
       dueDate: '2024-08-15',
@@ -38,7 +38,7 @@ const DoctorDashboard: React.FC<DoctorDashboardProps> = ({ doctor }) => {
     },
     {
       id: '2',
-      name: 'Emily Davis',
+      name: 'rahul dravid',
       age: 32,
       week: 18,
       dueDate: '2024-10-20',
